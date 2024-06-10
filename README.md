@@ -1,1 +1,1 @@
-# qa-automation-assigment
+# qa-automation-challenge
